@@ -1,0 +1,16 @@
+services:
+
+  waha:
+    image: devlikeapro/waha:latest
+    container_name: wpp_bot_waha_ai8
+    restart: always
+    ports:
+      - '3000:3000'
+  
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: wpp_bot_api_ai8
+    ports:
+      - '5005:5005'

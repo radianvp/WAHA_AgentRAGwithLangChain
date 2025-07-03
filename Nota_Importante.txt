@@ -1,0 +1,18 @@
+Coloca tu archivo .env
+Coloca tu archivo JSON dentro de la carpeta "utils"
+
+Este proyecto trabaja con el entorno virtual con:
+- Python 3.10
+
+Comandos para correr el docker-compose.yml:
+- docker-compose up --build waha
+- docker-compose up --build api
+- docker compose up --build api
+
+
+
+---------------------------------------------
+- La carpeta Utils solo es para funciones que sean las tools para interactuar con LLMs
+- La carpeta RAG sera para dotar al agente en un conocimiento externo.
+- la carpeta service, es una que puede o no existir en proyecto, en estye caso tenemos un servicio de waha
+- la carpeta bot --> es el que hace el retrival del RAG
