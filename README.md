@@ -153,4 +153,4 @@ Contacto: [radianvp@gmail.com]
 
 ## 🙏 Agradecimientos
 
-Este proyecto fue posible gracias al apoyo y la guía de **Datapath** y al acompañamiento del profesor **Kevin Inofuente** @KevinInoCol, cuyo conocimiento y visión han sido fundamentales para el desarrollo de esta solución.
+Este proyecto fue posible gracias al apoyo y la guía de **Datapath** y al acompañamiento del profesor [**Kevin Inofuente**](https://github.com/KevinInoCol), cuyo conocimiento y visión han sido fundamentales para el desarrollo de esta solución.
